@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seocho.8222quick.com/sitemap.xml
+
+
+
